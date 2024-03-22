@@ -1,5 +1,5 @@
 /*FUD SOLUCIONES*/
-let titulo = "FUD SOLUCIONES WEB ";
+/*let titulo = "FUD SOLUCIONES WEB ";
 let palabrasArray = ["TIENDA ONLINE", "BLOGS", "MARKETING DIGITAL", "FOTOGRAFÍA DE PRODUCTOS", "DISEÑO DE LOGO", "DISEÑO GRÁFICO", "IDENTIDAD DE MARCA", "DESARROLLO WEB", "OPTIMIZACIÓN SEO", "GESTIÓN DE REDES SOCIALES", "PUBLICIDAD EN LÍNEA", "ANÁLISIS DE DATOS", "CREACIÓN DE CONTENIDO", "BRANDING", "DISEÑO DE INTERFAZ DE USUARIO", "DISEÑO DE EXPERIENCIA DE USUARIO", "DESARROLLO DE APLICACIONES MÓVILES", "GESTIÓN DE PROYECTOS", "SOPORTE TÉCNICO"];
 let colores = ["red", "orange", "yellow", "green", "blue", "indigo", "violet", "brown", "pink", "purple", "cyan", "magenta", "lime", "maroon", "olive", "teal", "silver", "gray", "black"];
 let indiceLetraTitulo = 0;
@@ -28,7 +28,7 @@ function mostrarPalabras(i) {
     }
 }
 
-escribirTitulo();
+escribirTitulo();*/
 
 
 /*---MATIAS URETA-PROGRAMADOR---*/
